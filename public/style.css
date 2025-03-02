@@ -1,0 +1,30 @@
+body {
+    margin-left: 20px;
+}
+
+.chat {
+    background-color: teal;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    display: inline-block;
+    box-shadow: 5px 5px 20px grey;
+}
+
+h1 {
+    background-color: rgb(235, 226, 226);
+    color: teal;
+    border-radius: 20px;
+}
+
+.msg, .editmsg {
+    background-color: rgb(96, 159, 159);
+    color: white;
+    border: 0.5px solid white;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.editmsg {
+    background-color: rgb(48, 115, 115);
+}
